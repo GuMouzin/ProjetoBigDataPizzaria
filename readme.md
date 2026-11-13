@@ -19,6 +19,9 @@
 
 ---
 
+## 📂 Bases de Dados & Amostra para Portfólio
+Devido aos limites de tamanho do GitHub para arquivos individuais, os arquivos brutos originais (que ultrapassam 90 MB) não são versionados diretamente. No entanto, o repositório inclui uma **amostra reduzida e anonimizada (`dados_parte1.csv`)** com as primeiras 1.000 linhas da base transacional. Isso permite que qualquer recrutador clone o projeto e teste a aplicação instantaneamente sem precisar baixar bases pesadas externamente.
+
 ## 📊 Principais Funcionalidades
 * **Processamento de Grandes Bases:** Análise estruturada de dados transacionais históricos por ano.
 * **Indicadores Chave (KPIs):** Identificação automática de dias de pico de vendas, horários de maior movimento, sabores e tamanhos mais rentáveis.
