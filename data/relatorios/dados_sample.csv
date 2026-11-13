@@ -1,0 +1,1001 @@
+order_id,pizza_id,pizza_name_id,quantity,order_date,order_time,unit_price,total_price,pizza_size,pizza_category,pizza_ingredients,pizza_name
+0,9,italupr_s,2,01-01-2011,18:00:49,50.0,100.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+1,23,bbq_ckn_l,2,01-01-2011,18:01:16,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+2,23,bbq_ckn_l,1,01-01-2011,18:03:37,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+3,18,prsc_argla_s,1,01-01-2011,18:05:09,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+4,21,bbq_ckn_s,1,01-01-2011,18:07:37,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+5,21,bbq_ckn_s,2,01-01-2011,18:07:38,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+6,13,mexicana_m,2,01-01-2011,18:09:41,65.0,130.0,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+7,14,mexicana_l,1,01-01-2011,18:11:01,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+8,21,bbq_ckn_s,1,01-01-2011,18:11:36,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+9,23,bbq_ckn_l,1,01-01-2011,18:13:15,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+10,23,bbq_ckn_l,1,01-01-2011,18:13:25,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+11,21,bbq_ckn_s,1,01-01-2011,18:13:42,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+12,4,classic_dlx_m,1,01-01-2011,18:15:43,65.0,65.0,M,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza 
+13,20,prsc_argla_l,2,01-01-2011,18:16:30,75.0,150.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+14,20,prsc_argla_l,1,01-01-2011,18:19:51,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+15,23,bbq_ckn_l,2,01-01-2011,18:21:33,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+16,18,prsc_argla_s,1,01-01-2011,18:23:49,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+17,0,hawaiian_s,1,01-01-2011,18:25:33,50.0,50.0,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+18,21,bbq_ckn_s,1,01-01-2011,18:26:01,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+19,21,bbq_ckn_s,1,01-01-2011,18:26:01,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+20,21,bbq_ckn_s,1,01-01-2011,18:27:12,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+21,21,bbq_ckn_s,1,01-01-2011,18:27:36,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+22,21,bbq_ckn_s,1,01-01-2011,18:28:15,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+23,22,bbq_ckn_m,1,01-01-2011,18:29:15,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+24,19,prsc_argla_m,1,01-01-2011,18:29:49,65.0,65.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+25,14,mexicana_l,1,01-01-2011,18:30:00,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+26,21,bbq_ckn_s,3,01-01-2011,18:30:18,50.0,150.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+27,23,bbq_ckn_l,2,01-01-2011,18:32:05,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+28,23,bbq_ckn_l,1,01-01-2011,18:33:01,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+29,12,mexicana_s,1,01-01-2011,18:33:04,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+30,23,bbq_ckn_l,1,01-01-2011,18:33:49,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+31,23,bbq_ckn_l,1,01-01-2011,18:33:57,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+32,10,italupr_m,1,01-01-2011,18:35:41,65.0,65.0,M,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+33,22,bbq_ckn_m,1,01-01-2011,18:35:52,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+34,23,bbq_ckn_l,1,01-01-2011,18:36:00,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+35,23,bbq_ckn_l,1,01-01-2011,18:36:31,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+36,23,bbq_ckn_l,1,01-01-2011,18:40:58,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+37,12,mexicana_s,2,01-01-2011,18:41:26,50.0,100.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+38,21,bbq_ckn_s,1,01-01-2011,18:41:54,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+39,2,hawaiian_l,2,01-01-2011,18:42:02,75.0,150.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+40,14,mexicana_l,3,01-01-2011,18:43:00,75.0,225.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+41,22,bbq_ckn_m,1,01-01-2011,18:43:27,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+42,22,bbq_ckn_m,1,01-01-2011,18:43:55,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+43,23,bbq_ckn_l,1,01-01-2011,18:44:32,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+44,21,bbq_ckn_s,1,01-01-2011,18:48:06,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+45,19,prsc_argla_m,1,01-01-2011,18:50:18,65.0,65.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+46,23,bbq_ckn_l,1,01-01-2011,18:51:12,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+47,11,italupr_l,2,01-01-2011,18:51:14,75.0,150.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+48,21,bbq_ckn_s,2,01-01-2011,18:51:41,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+49,22,bbq_ckn_m,1,01-01-2011,18:52:59,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+50,9,italupr_s,1,01-01-2011,18:53:07,50.0,50.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+51,20,prsc_argla_l,2,01-01-2011,18:53:40,75.0,150.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+52,2,hawaiian_l,1,01-01-2011,18:53:41,75.0,75.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+53,22,bbq_ckn_m,1,01-01-2011,18:53:53,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+54,23,bbq_ckn_l,3,01-01-2011,18:57:14,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+55,23,bbq_ckn_l,1,01-01-2011,18:59:25,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+56,22,bbq_ckn_m,2,01-01-2011,18:59:54,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+57,21,bbq_ckn_s,2,01-01-2011,19:00:32,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+58,11,italupr_l,2,01-01-2011,19:03:22,75.0,150.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+59,21,bbq_ckn_s,3,01-01-2011,19:03:23,50.0,150.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+60,22,bbq_ckn_m,1,01-01-2011,19:04:17,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+61,23,bbq_ckn_l,1,01-01-2011,19:04:38,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+62,23,bbq_ckn_l,1,01-01-2011,19:04:42,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+63,21,bbq_ckn_s,1,01-01-2011,19:05:29,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+64,0,hawaiian_s,2,01-01-2011,19:06:00,50.0,100.0,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+65,21,bbq_ckn_s,2,01-01-2011,19:06:44,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+66,23,bbq_ckn_l,1,01-01-2011,19:08:12,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+67,20,prsc_argla_l,2,01-01-2011,19:11:33,75.0,150.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+68,21,bbq_ckn_s,1,01-01-2011,19:11:45,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+69,21,bbq_ckn_s,1,01-01-2011,19:11:54,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+70,20,prsc_argla_l,1,01-01-2011,19:12:34,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+71,21,bbq_ckn_s,1,01-01-2011,19:12:49,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+72,9,italupr_s,2,01-01-2011,19:13:23,50.0,100.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+73,12,mexicana_s,1,01-01-2011,19:13:52,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+74,3,classic_dlx_s,1,01-01-2011,19:14:01,50.0,50.0,S,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza
+75,18,prsc_argla_s,2,01-01-2011,19:15:24,50.0,100.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+76,1,hawaiian_m,1,01-01-2011,19:16:03,65.0,65.0,M,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+77,0,hawaiian_s,1,01-01-2011,19:16:52,50.0,50.0,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+78,21,bbq_ckn_s,1,01-01-2011,19:18:39,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+79,9,italupr_s,1,01-01-2011,19:20:52,50.0,50.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+80,21,bbq_ckn_s,1,01-01-2011,19:25:01,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+81,21,bbq_ckn_s,1,01-01-2011,19:26:16,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+82,21,bbq_ckn_s,2,01-01-2011,19:27:31,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+83,22,bbq_ckn_m,3,01-01-2011,19:28:00,65.0,195.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+84,20,prsc_argla_l,1,01-01-2011,19:28:20,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+85,1,hawaiian_m,2,01-01-2011,19:29:24,65.0,130.0,M,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+86,12,mexicana_s,1,01-01-2011,19:34:06,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+87,22,bbq_ckn_m,1,01-01-2011,19:34:09,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+88,23,bbq_ckn_l,1,01-01-2011,19:36:18,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+89,20,prsc_argla_l,3,01-01-2011,19:37:22,75.0,225.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+90,23,bbq_ckn_l,1,01-01-2011,19:39:24,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+91,2,hawaiian_l,1,01-01-2011,19:41:30,75.0,75.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+92,18,prsc_argla_s,3,01-01-2011,19:42:46,50.0,150.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+93,21,bbq_ckn_s,1,01-01-2011,19:44:29,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+94,23,bbq_ckn_l,1,01-01-2011,19:46:53,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+95,23,bbq_ckn_l,3,01-01-2011,19:48:31,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+96,14,mexicana_l,2,01-01-2011,19:49:18,75.0,150.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+97,21,bbq_ckn_s,2,01-01-2011,19:52:24,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+98,12,mexicana_s,1,01-01-2011,19:52:24,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+99,22,bbq_ckn_m,2,01-01-2011,19:53:49,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+100,11,italupr_l,1,01-01-2011,19:55:46,75.0,75.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+101,23,bbq_ckn_l,1,01-01-2011,19:57:27,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+102,11,italupr_l,1,01-01-2011,20:00:53,75.0,75.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+103,12,mexicana_s,1,01-01-2011,20:00:54,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+104,23,bbq_ckn_l,1,01-01-2011,20:00:58,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+105,23,bbq_ckn_l,1,01-01-2011,20:01:07,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+106,21,bbq_ckn_s,1,01-01-2011,20:01:47,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+107,2,hawaiian_l,2,01-01-2011,20:01:56,75.0,150.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+108,23,bbq_ckn_l,2,01-01-2011,20:03:42,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+109,20,prsc_argla_l,3,01-01-2011,20:04:00,75.0,225.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+110,23,bbq_ckn_l,3,01-01-2011,20:04:06,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+111,23,bbq_ckn_l,2,01-01-2011,20:05:00,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+112,19,prsc_argla_m,1,01-01-2011,20:05:09,65.0,65.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+113,22,bbq_ckn_m,3,01-01-2011,20:06:10,65.0,195.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+114,12,mexicana_s,1,01-01-2011,20:06:30,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+115,21,bbq_ckn_s,1,01-01-2011,20:07:18,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+116,21,bbq_ckn_s,1,01-01-2011,20:09:13,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+117,23,bbq_ckn_l,1,01-01-2011,20:09:57,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+118,23,bbq_ckn_l,2,01-01-2011,20:10:01,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+119,21,bbq_ckn_s,1,01-01-2011,20:11:28,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+120,14,mexicana_l,3,01-01-2011,20:11:49,75.0,225.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+121,23,bbq_ckn_l,3,01-01-2011,20:13:18,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+122,9,italupr_s,2,01-01-2011,20:13:20,50.0,100.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+123,22,bbq_ckn_m,2,01-01-2011,20:16:04,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+124,21,bbq_ckn_s,1,01-01-2011,20:16:42,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+125,21,bbq_ckn_s,1,01-01-2011,20:17:05,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+126,2,hawaiian_l,2,01-01-2011,20:20:00,75.0,150.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+127,22,bbq_ckn_m,1,01-01-2011,20:23:02,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+128,23,bbq_ckn_l,2,01-01-2011,20:23:12,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+129,22,bbq_ckn_m,3,01-01-2011,20:25:12,65.0,195.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+130,14,mexicana_l,2,01-01-2011,20:25:43,75.0,150.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+131,13,mexicana_m,2,01-01-2011,20:26:04,65.0,130.0,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+132,23,bbq_ckn_l,1,01-01-2011,20:30:39,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+133,20,prsc_argla_l,1,01-01-2011,20:31:17,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+134,21,bbq_ckn_s,3,01-01-2011,20:31:53,50.0,150.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+135,22,bbq_ckn_m,1,01-01-2011,20:32:04,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+136,21,bbq_ckn_s,2,01-01-2011,20:32:21,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+137,23,bbq_ckn_l,1,01-01-2011,20:32:24,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+138,23,bbq_ckn_l,1,01-01-2011,20:33:28,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+139,21,bbq_ckn_s,2,01-01-2011,20:33:46,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+140,9,italupr_s,3,01-01-2011,20:35:46,50.0,150.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+141,21,bbq_ckn_s,1,01-01-2011,20:35:48,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+142,23,bbq_ckn_l,1,01-01-2011,20:36:59,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+143,23,bbq_ckn_l,1,01-01-2011,20:38:52,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+144,21,bbq_ckn_s,1,01-01-2011,20:41:13,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+145,21,bbq_ckn_s,2,01-01-2011,20:41:20,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+146,11,italupr_l,1,01-01-2011,20:42:03,75.0,75.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+147,21,bbq_ckn_s,1,01-01-2011,20:43:10,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+148,18,prsc_argla_s,2,01-01-2011,20:50:24,50.0,100.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+149,23,bbq_ckn_l,1,01-01-2011,20:50:27,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+150,20,prsc_argla_l,2,01-01-2011,20:51:35,75.0,150.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+151,21,bbq_ckn_s,1,01-01-2011,20:52:14,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+152,12,mexicana_s,2,01-01-2011,20:53:01,50.0,100.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+153,21,bbq_ckn_s,2,01-01-2011,20:55:22,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+154,12,mexicana_s,2,01-01-2011,20:55:42,50.0,100.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+155,22,bbq_ckn_m,1,01-01-2011,20:56:30,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+156,23,bbq_ckn_l,4,01-01-2011,20:57:51,75.0,300.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+157,23,bbq_ckn_l,3,01-01-2011,20:59:31,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+158,13,mexicana_m,1,01-01-2011,21:00:49,65.0,65.0,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+159,21,bbq_ckn_s,1,01-01-2011,21:01:23,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+160,23,bbq_ckn_l,1,01-01-2011,21:01:53,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+161,23,bbq_ckn_l,1,01-01-2011,21:01:55,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+162,21,bbq_ckn_s,1,01-01-2011,21:02:19,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+163,23,bbq_ckn_l,3,01-01-2011,21:03:10,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+164,23,bbq_ckn_l,2,01-01-2011,21:04:19,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+165,22,bbq_ckn_m,2,01-01-2011,21:09:31,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+166,22,bbq_ckn_m,1,01-01-2011,21:10:03,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+167,21,bbq_ckn_s,1,01-01-2011,21:13:32,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+168,11,italupr_l,1,01-01-2011,21:14:58,75.0,75.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+169,23,bbq_ckn_l,2,01-01-2011,21:15:07,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+170,22,bbq_ckn_m,1,01-01-2011,21:15:23,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+171,23,bbq_ckn_l,3,01-01-2011,21:16:12,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+172,19,prsc_argla_m,1,01-01-2011,21:17:30,65.0,65.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+173,18,prsc_argla_s,2,01-01-2011,21:18:39,50.0,100.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+174,22,bbq_ckn_m,1,01-01-2011,21:20:58,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+175,14,mexicana_l,3,01-01-2011,21:22:39,75.0,225.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+176,23,bbq_ckn_l,1,01-01-2011,21:23:24,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+177,23,bbq_ckn_l,1,01-01-2011,21:23:37,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+178,22,bbq_ckn_m,2,01-01-2011,21:24:12,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+179,23,bbq_ckn_l,1,01-01-2011,21:26:20,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+180,9,italupr_s,2,01-01-2011,21:26:27,50.0,100.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+181,23,bbq_ckn_l,1,01-01-2011,21:26:28,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+182,23,bbq_ckn_l,1,01-01-2011,21:26:49,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+183,23,bbq_ckn_l,1,01-01-2011,21:27:23,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+184,21,bbq_ckn_s,1,01-01-2011,21:27:53,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+185,21,bbq_ckn_s,3,01-01-2011,21:28:55,50.0,150.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+186,23,bbq_ckn_l,1,01-01-2011,21:32:33,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+187,0,hawaiian_s,1,01-01-2011,21:33:41,50.0,50.0,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+188,23,bbq_ckn_l,1,01-01-2011,21:34:39,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+189,23,bbq_ckn_l,1,01-01-2011,21:36:02,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+190,10,italupr_m,1,01-01-2011,21:36:40,65.0,65.0,M,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+191,23,bbq_ckn_l,1,01-01-2011,21:37:20,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+192,21,bbq_ckn_s,1,01-01-2011,21:38:27,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+193,23,bbq_ckn_l,1,01-01-2011,21:38:30,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+194,21,bbq_ckn_s,2,01-01-2011,21:38:52,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+195,20,prsc_argla_l,3,01-01-2011,21:39:26,75.0,225.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+196,9,italupr_s,1,01-01-2011,21:39:27,50.0,50.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+197,23,bbq_ckn_l,2,01-01-2011,21:41:25,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+198,9,italupr_s,1,01-01-2011,21:44:08,50.0,50.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+199,23,bbq_ckn_l,1,01-01-2011,21:45:13,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+200,3,classic_dlx_s,1,01-01-2011,21:45:52,50.0,50.0,S,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza
+201,21,bbq_ckn_s,1,01-01-2011,21:47:03,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+202,1,hawaiian_m,2,01-01-2011,21:48:14,65.0,130.0,M,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+203,13,mexicana_m,1,01-01-2011,21:49:38,65.0,65.0,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+204,14,mexicana_l,2,01-01-2011,21:49:39,75.0,150.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+205,18,prsc_argla_s,2,01-01-2011,21:54:32,50.0,100.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+206,21,bbq_ckn_s,2,01-01-2011,22:01:04,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+207,23,bbq_ckn_l,1,01-01-2011,22:01:53,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+208,0,hawaiian_s,1,01-01-2011,22:02:34,50.0,50.0,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+209,11,italupr_l,3,01-01-2011,22:02:35,75.0,225.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+210,23,bbq_ckn_l,1,01-01-2011,22:02:59,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+211,21,bbq_ckn_s,3,01-01-2011,22:04:23,50.0,150.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+212,23,bbq_ckn_l,2,01-01-2011,22:04:59,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+213,21,bbq_ckn_s,2,01-01-2011,22:07:54,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+214,22,bbq_ckn_m,1,01-01-2011,22:08:21,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+215,0,hawaiian_s,1,01-01-2011,22:08:24,50.0,50.0,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+216,22,bbq_ckn_m,1,01-01-2011,22:09:20,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+217,22,bbq_ckn_m,2,01-01-2011,22:09:41,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+218,18,prsc_argla_s,1,01-01-2011,22:11:17,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+219,23,bbq_ckn_l,2,01-01-2011,22:12:01,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+220,22,bbq_ckn_m,1,01-01-2011,22:15:17,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+221,20,prsc_argla_l,2,01-01-2011,22:17:03,75.0,150.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+222,11,italupr_l,1,01-01-2011,22:22:28,75.0,75.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+223,23,bbq_ckn_l,1,01-01-2011,22:22:30,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+224,18,prsc_argla_s,1,01-01-2011,22:23:40,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+225,23,bbq_ckn_l,1,01-01-2011,22:24:17,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+226,13,mexicana_m,1,01-01-2011,22:24:51,65.0,65.0,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+227,2,hawaiian_l,1,01-01-2011,22:25:04,75.0,75.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+228,21,bbq_ckn_s,1,01-01-2011,22:26:26,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+229,23,bbq_ckn_l,2,01-01-2011,22:28:31,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+230,23,bbq_ckn_l,1,01-01-2011,22:30:53,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+231,21,bbq_ckn_s,2,01-01-2011,22:31:17,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+232,14,mexicana_l,1,01-01-2011,22:31:29,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+233,14,mexicana_l,1,01-01-2011,22:33:37,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+234,9,italupr_s,1,01-01-2011,22:37:57,50.0,50.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+235,23,bbq_ckn_l,2,01-01-2011,22:40:21,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+236,23,bbq_ckn_l,1,01-01-2011,22:44:18,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+237,22,bbq_ckn_m,1,01-01-2011,22:45:15,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+238,22,bbq_ckn_m,1,01-01-2011,22:45:40,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+239,21,bbq_ckn_s,1,01-01-2011,22:50:07,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+240,20,prsc_argla_l,1,01-01-2011,22:50:48,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+241,23,bbq_ckn_l,4,01-01-2011,22:50:50,75.0,300.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+242,21,bbq_ckn_s,1,01-01-2011,22:53:43,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+243,12,mexicana_s,2,01-01-2011,22:55:06,50.0,100.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+244,23,bbq_ckn_l,2,01-01-2011,22:58:01,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+245,18,prsc_argla_s,1,01-01-2011,22:58:38,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+246,0,hawaiian_s,1,01-01-2011,22:58:57,50.0,50.0,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+247,23,bbq_ckn_l,1,01-01-2011,22:59:05,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+248,21,bbq_ckn_s,1,02-01-2011,18:00:16,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+249,23,bbq_ckn_l,3,02-01-2011,18:00:33,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+250,10,italupr_m,1,02-01-2011,18:00:57,65.0,65.0,M,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+251,22,bbq_ckn_m,1,02-01-2011,18:01:13,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+252,23,bbq_ckn_l,1,02-01-2011,18:04:06,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+253,18,prsc_argla_s,1,02-01-2011,18:05:02,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+254,19,prsc_argla_m,1,02-01-2011,18:06:24,65.0,65.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+255,21,bbq_ckn_s,2,02-01-2011,18:06:39,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+256,23,bbq_ckn_l,1,02-01-2011,18:06:59,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+257,23,bbq_ckn_l,1,02-01-2011,18:07:29,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+258,14,mexicana_l,2,02-01-2011,18:08:28,75.0,150.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+259,2,hawaiian_l,1,02-01-2011,18:11:28,75.0,75.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+260,23,bbq_ckn_l,2,02-01-2011,18:12:35,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+261,20,prsc_argla_l,1,02-01-2011,18:13:00,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+262,23,bbq_ckn_l,1,02-01-2011,18:13:51,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+263,9,italupr_s,1,02-01-2011,18:14:04,50.0,50.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+264,21,bbq_ckn_s,1,02-01-2011,18:14:09,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+265,23,bbq_ckn_l,1,02-01-2011,18:15:39,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+266,21,bbq_ckn_s,1,02-01-2011,18:16:52,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+267,19,prsc_argla_m,1,02-01-2011,18:18:25,65.0,65.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+268,23,bbq_ckn_l,1,02-01-2011,18:18:38,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+269,23,bbq_ckn_l,1,02-01-2011,18:19:17,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+270,12,mexicana_s,3,02-01-2011,18:20:02,50.0,150.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+271,22,bbq_ckn_m,2,02-01-2011,18:21:30,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+272,22,bbq_ckn_m,1,02-01-2011,18:22:52,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+273,14,mexicana_l,1,02-01-2011,18:23:22,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+274,21,bbq_ckn_s,1,02-01-2011,18:24:33,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+275,23,bbq_ckn_l,1,02-01-2011,18:26:25,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+276,23,bbq_ckn_l,1,02-01-2011,18:27:30,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+277,13,mexicana_m,3,02-01-2011,18:28:03,65.0,195.0,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+278,2,hawaiian_l,1,02-01-2011,18:28:10,75.0,75.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+279,11,italupr_l,1,02-01-2011,18:28:23,75.0,75.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+280,18,prsc_argla_s,2,02-01-2011,18:29:21,50.0,100.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+281,10,italupr_m,2,02-01-2011,18:31:15,65.0,130.0,M,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+282,22,bbq_ckn_m,1,02-01-2011,18:34:22,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+283,22,bbq_ckn_m,1,02-01-2011,18:36:31,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+284,21,bbq_ckn_s,2,02-01-2011,18:36:38,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+285,23,bbq_ckn_l,2,02-01-2011,18:36:56,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+286,11,italupr_l,1,02-01-2011,18:37:06,75.0,75.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+287,20,prsc_argla_l,2,02-01-2011,18:37:58,75.0,150.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+288,23,bbq_ckn_l,1,02-01-2011,18:38:58,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+289,23,bbq_ckn_l,2,02-01-2011,18:39:45,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+290,21,bbq_ckn_s,3,02-01-2011,18:40:49,50.0,150.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+291,4,classic_dlx_m,1,02-01-2011,18:41:19,65.0,65.0,M,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza
+292,13,mexicana_m,1,02-01-2011,18:41:39,65.0,65.0,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+293,18,prsc_argla_s,1,02-01-2011,18:42:28,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+294,21,bbq_ckn_s,1,02-01-2011,18:42:41,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+295,21,bbq_ckn_s,1,02-01-2011,18:43:47,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+296,5,classic_dlx_l,1,02-01-2011,18:44:48,75.0,75.0,L,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza
+297,23,bbq_ckn_l,1,02-01-2011,18:45:38,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+298,11,italupr_l,2,02-01-2011,18:46:36,75.0,150.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+299,23,bbq_ckn_l,1,02-01-2011,18:48:51,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+300,21,bbq_ckn_s,1,02-01-2011,18:49:56,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+301,23,bbq_ckn_l,1,02-01-2011,18:50:04,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+302,21,bbq_ckn_s,1,02-01-2011,18:51:05,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+303,5,classic_dlx_l,3,02-01-2011,18:51:38,75.0,225.0,L,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza
+304,13,mexicana_m,1,02-01-2011,18:51:59,65.0,65.0,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+305,23,bbq_ckn_l,4,02-01-2011,18:52:11,75.0,300.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+306,19,prsc_argla_m,1,02-01-2011,18:52:51,65.0,65.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+307,23,bbq_ckn_l,1,02-01-2011,18:53:30,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+308,23,bbq_ckn_l,2,02-01-2011,18:54:18,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+309,22,bbq_ckn_m,1,02-01-2011,18:58:22,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+310,14,mexicana_l,1,02-01-2011,18:58:30,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+311,21,bbq_ckn_s,1,02-01-2011,18:59:45,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+312,23,bbq_ckn_l,1,02-01-2011,18:59:51,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+313,21,bbq_ckn_s,2,02-01-2011,19:00:46,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+314,21,bbq_ckn_s,1,02-01-2011,19:00:53,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+315,14,mexicana_l,1,02-01-2011,19:02:39,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+316,14,mexicana_l,1,02-01-2011,19:02:43,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+317,2,hawaiian_l,1,02-01-2011,19:02:46,75.0,75.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+318,21,bbq_ckn_s,1,02-01-2011,19:05:06,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+319,23,bbq_ckn_l,1,02-01-2011,19:05:15,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+320,21,bbq_ckn_s,1,02-01-2011,19:06:51,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+321,0,hawaiian_s,1,02-01-2011,19:06:59,50.0,50.0,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+322,23,bbq_ckn_l,2,02-01-2011,19:09:35,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+323,20,prsc_argla_l,1,02-01-2011,19:09:38,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+324,21,bbq_ckn_s,2,02-01-2011,19:11:04,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+325,18,prsc_argla_s,1,02-01-2011,19:11:17,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+326,12,mexicana_s,3,02-01-2011,19:11:29,50.0,150.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+327,23,bbq_ckn_l,1,02-01-2011,19:11:43,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+328,12,mexicana_s,2,02-01-2011,19:11:44,50.0,100.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+329,23,bbq_ckn_l,1,02-01-2011,19:12:24,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+330,1,hawaiian_m,1,02-01-2011,19:12:58,65.0,65.0,M,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+331,21,bbq_ckn_s,1,02-01-2011,19:13:04,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+332,23,bbq_ckn_l,1,02-01-2011,19:13:13,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+333,23,bbq_ckn_l,1,02-01-2011,19:13:30,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+334,21,bbq_ckn_s,1,02-01-2011,19:13:32,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+335,22,bbq_ckn_m,1,02-01-2011,19:14:26,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+336,12,mexicana_s,1,02-01-2011,19:15:44,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+337,18,prsc_argla_s,1,02-01-2011,19:15:59,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+338,23,bbq_ckn_l,1,02-01-2011,19:16:30,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+339,14,mexicana_l,2,02-01-2011,19:17:13,75.0,150.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+340,23,bbq_ckn_l,2,02-01-2011,19:18:50,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+341,21,bbq_ckn_s,2,02-01-2011,19:19:11,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+342,20,prsc_argla_l,1,02-01-2011,19:21:13,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+343,14,mexicana_l,1,02-01-2011,19:21:57,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+344,21,bbq_ckn_s,2,02-01-2011,19:22:57,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+345,22,bbq_ckn_m,2,02-01-2011,19:23:48,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+346,22,bbq_ckn_m,1,02-01-2011,19:24:13,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+347,18,prsc_argla_s,1,02-01-2011,19:26:11,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+348,10,italupr_m,1,02-01-2011,19:27:16,65.0,65.0,M,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+349,23,bbq_ckn_l,1,02-01-2011,19:27:20,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+350,0,hawaiian_s,1,02-01-2011,19:27:59,50.0,50.0,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+351,22,bbq_ckn_m,1,02-01-2011,19:29:38,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+352,14,mexicana_l,1,02-01-2011,19:31:11,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+353,21,bbq_ckn_s,2,02-01-2011,19:33:20,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+354,2,hawaiian_l,1,02-01-2011,19:36:47,75.0,75.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+355,21,bbq_ckn_s,1,02-01-2011,19:38:07,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+356,23,bbq_ckn_l,1,02-01-2011,19:38:24,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+357,13,mexicana_m,2,02-01-2011,19:38:30,65.0,130.0,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+358,23,bbq_ckn_l,1,02-01-2011,19:38:40,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+359,21,bbq_ckn_s,1,02-01-2011,19:39:43,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+360,23,bbq_ckn_l,3,02-01-2011,19:39:46,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+361,1,hawaiian_m,1,02-01-2011,19:40:44,65.0,65.0,M,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+362,14,mexicana_l,2,02-01-2011,19:41:19,75.0,150.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+363,14,mexicana_l,2,02-01-2011,19:42:07,75.0,150.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+364,23,bbq_ckn_l,2,02-01-2011,19:43:46,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+365,14,mexicana_l,1,02-01-2011,19:46:39,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+366,18,prsc_argla_s,1,02-01-2011,19:47:44,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+367,18,prsc_argla_s,1,02-01-2011,19:50:56,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+368,22,bbq_ckn_m,2,02-01-2011,19:52:25,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+369,23,bbq_ckn_l,1,02-01-2011,19:52:35,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+370,23,bbq_ckn_l,2,02-01-2011,19:52:45,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+371,20,prsc_argla_l,1,02-01-2011,19:52:57,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+372,18,prsc_argla_s,1,02-01-2011,19:54:37,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+373,0,hawaiian_s,1,02-01-2011,19:55:30,50.0,50.0,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+374,21,bbq_ckn_s,2,02-01-2011,19:56:25,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+375,23,bbq_ckn_l,2,02-01-2011,19:58:18,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+376,9,italupr_s,1,02-01-2011,19:59:03,50.0,50.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+377,12,mexicana_s,1,02-01-2011,19:59:55,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+378,2,hawaiian_l,1,02-01-2011,20:00:23,75.0,75.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+379,21,bbq_ckn_s,2,02-01-2011,20:01:19,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+380,21,bbq_ckn_s,1,02-01-2011,20:01:57,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+381,21,bbq_ckn_s,1,02-01-2011,20:02:03,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+382,23,bbq_ckn_l,1,02-01-2011,20:02:33,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+383,19,prsc_argla_m,1,02-01-2011,20:02:51,65.0,65.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+384,23,bbq_ckn_l,1,02-01-2011,20:03:44,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+385,22,bbq_ckn_m,1,02-01-2011,20:04:00,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+386,19,prsc_argla_m,1,02-01-2011,20:04:27,65.0,65.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+387,13,mexicana_m,4,02-01-2011,20:04:52,65.0,260.0,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+388,21,bbq_ckn_s,1,02-01-2011,20:06:46,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+389,22,bbq_ckn_m,1,02-01-2011,20:08:40,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+390,1,hawaiian_m,1,02-01-2011,20:08:41,65.0,65.0,M,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+391,9,italupr_s,1,02-01-2011,20:09:43,50.0,50.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+392,14,mexicana_l,3,02-01-2011,20:10:21,75.0,225.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+393,1,hawaiian_m,1,02-01-2011,20:11:04,65.0,65.0,M,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+394,23,bbq_ckn_l,1,02-01-2011,20:11:37,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+395,21,bbq_ckn_s,2,02-01-2011,20:12:32,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+396,21,bbq_ckn_s,1,02-01-2011,20:12:51,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+397,23,bbq_ckn_l,1,02-01-2011,20:14:44,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+398,9,italupr_s,1,02-01-2011,20:14:54,50.0,50.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+399,12,mexicana_s,3,02-01-2011,20:15:24,50.0,150.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+400,9,italupr_s,1,02-01-2011,20:15:39,50.0,50.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+401,2,hawaiian_l,1,02-01-2011,20:17:26,75.0,75.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+402,11,italupr_l,2,02-01-2011,20:17:42,75.0,150.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+403,22,bbq_ckn_m,1,02-01-2011,20:20:44,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+404,21,bbq_ckn_s,2,02-01-2011,20:23:48,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+405,23,bbq_ckn_l,1,02-01-2011,20:24:57,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+406,21,bbq_ckn_s,2,02-01-2011,20:27:17,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+407,21,bbq_ckn_s,1,02-01-2011,20:27:19,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+408,12,mexicana_s,1,02-01-2011,20:27:30,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+409,13,mexicana_m,1,02-01-2011,20:28:00,65.0,65.0,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+410,12,mexicana_s,1,02-01-2011,20:28:07,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+411,22,bbq_ckn_m,1,02-01-2011,20:29:09,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+412,20,prsc_argla_l,1,02-01-2011,20:30:11,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+413,23,bbq_ckn_l,1,02-01-2011,20:31:08,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+414,21,bbq_ckn_s,1,02-01-2011,20:32:06,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+415,11,italupr_l,2,02-01-2011,20:32:30,75.0,150.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+416,23,bbq_ckn_l,1,02-01-2011,20:32:42,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+417,12,mexicana_s,2,02-01-2011,20:33:32,50.0,100.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+418,22,bbq_ckn_m,1,02-01-2011,20:34:40,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+419,9,italupr_s,1,02-01-2011,20:35:17,50.0,50.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+420,11,italupr_l,2,02-01-2011,20:36:31,75.0,150.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+421,2,hawaiian_l,1,02-01-2011,20:41:35,75.0,75.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+422,21,bbq_ckn_s,2,02-01-2011,20:41:48,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+423,1,hawaiian_m,1,02-01-2011,20:41:51,65.0,65.0,M,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+424,14,mexicana_l,1,02-01-2011,20:42:03,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+425,23,bbq_ckn_l,2,02-01-2011,20:42:11,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+426,21,bbq_ckn_s,2,02-01-2011,20:43:32,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+427,12,mexicana_s,1,02-01-2011,20:43:38,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+428,18,prsc_argla_s,3,02-01-2011,20:43:51,50.0,150.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+429,21,bbq_ckn_s,2,02-01-2011,20:47:47,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+430,14,mexicana_l,1,02-01-2011,20:47:58,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+431,9,italupr_s,1,02-01-2011,20:48:37,50.0,50.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+432,19,prsc_argla_m,1,02-01-2011,20:49:31,65.0,65.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+433,21,bbq_ckn_s,1,02-01-2011,20:49:39,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+434,9,italupr_s,2,02-01-2011,20:50:52,50.0,100.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+435,21,bbq_ckn_s,1,02-01-2011,20:51:32,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+436,14,mexicana_l,1,02-01-2011,20:53:22,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+437,21,bbq_ckn_s,2,02-01-2011,20:53:25,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+438,22,bbq_ckn_m,1,02-01-2011,20:53:28,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+439,11,italupr_l,1,02-01-2011,20:53:46,75.0,75.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+440,23,bbq_ckn_l,4,02-01-2011,20:54:00,75.0,300.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+441,14,mexicana_l,1,02-01-2011,20:54:36,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+442,23,bbq_ckn_l,1,02-01-2011,20:55:28,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+443,20,prsc_argla_l,1,02-01-2011,20:57:18,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+444,23,bbq_ckn_l,1,02-01-2011,20:57:28,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+445,11,italupr_l,1,02-01-2011,20:58:04,75.0,75.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+446,22,bbq_ckn_m,1,02-01-2011,20:58:25,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+447,2,hawaiian_l,1,02-01-2011,20:58:47,75.0,75.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+448,2,hawaiian_l,1,02-01-2011,20:59:07,75.0,75.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+449,21,bbq_ckn_s,1,02-01-2011,20:59:47,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+450,21,bbq_ckn_s,3,02-01-2011,21:00:55,50.0,150.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+451,23,bbq_ckn_l,1,02-01-2011,21:01:27,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+452,21,bbq_ckn_s,1,02-01-2011,21:01:38,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+453,23,bbq_ckn_l,1,02-01-2011,21:02:24,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+454,22,bbq_ckn_m,1,02-01-2011,21:03:26,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+455,12,mexicana_s,2,02-01-2011,21:04:40,50.0,100.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+456,12,mexicana_s,1,02-01-2011,21:06:29,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+457,21,bbq_ckn_s,1,02-01-2011,21:08:03,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+458,14,mexicana_l,1,02-01-2011,21:08:13,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+459,21,bbq_ckn_s,1,02-01-2011,21:09:07,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+460,11,italupr_l,1,02-01-2011,21:10:59,75.0,75.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+461,22,bbq_ckn_m,1,02-01-2011,21:11:35,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+462,12,mexicana_s,1,02-01-2011,21:12:40,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+463,20,prsc_argla_l,1,02-01-2011,21:13:16,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+464,23,bbq_ckn_l,1,02-01-2011,21:14:59,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+465,9,italupr_s,1,02-01-2011,21:15:05,50.0,50.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+466,21,bbq_ckn_s,2,02-01-2011,21:20:34,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+467,12,mexicana_s,4,02-01-2011,21:20:36,50.0,200.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+468,14,mexicana_l,1,02-01-2011,21:20:37,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+469,23,bbq_ckn_l,2,02-01-2011,21:21:23,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+470,14,mexicana_l,1,02-01-2011,21:21:34,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+471,19,prsc_argla_m,2,02-01-2011,21:22:00,65.0,130.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+472,23,bbq_ckn_l,2,02-01-2011,21:24:51,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+473,0,hawaiian_s,2,02-01-2011,21:25:28,50.0,100.0,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+474,23,bbq_ckn_l,1,02-01-2011,21:25:33,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+475,23,bbq_ckn_l,1,02-01-2011,21:25:42,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+476,21,bbq_ckn_s,1,02-01-2011,21:26:20,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+477,22,bbq_ckn_m,3,02-01-2011,21:26:22,65.0,195.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+478,13,mexicana_m,1,02-01-2011,21:26:42,65.0,65.0,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+479,21,bbq_ckn_s,1,02-01-2011,21:28:14,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+480,14,mexicana_l,3,02-01-2011,21:29:50,75.0,225.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+481,21,bbq_ckn_s,1,02-01-2011,21:30:37,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+482,14,mexicana_l,2,02-01-2011,21:30:40,75.0,150.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+483,23,bbq_ckn_l,2,02-01-2011,21:31:01,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+484,21,bbq_ckn_s,2,02-01-2011,21:31:06,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+485,9,italupr_s,1,02-01-2011,21:31:22,50.0,50.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+486,23,bbq_ckn_l,3,02-01-2011,21:32:31,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+487,22,bbq_ckn_m,3,02-01-2011,21:34:14,65.0,195.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+488,2,hawaiian_l,1,02-01-2011,21:34:39,75.0,75.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+489,18,prsc_argla_s,3,02-01-2011,21:35:08,50.0,150.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+490,23,bbq_ckn_l,1,02-01-2011,21:35:29,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+491,21,bbq_ckn_s,1,02-01-2011,21:35:37,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+492,23,bbq_ckn_l,3,02-01-2011,21:36:03,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+493,20,prsc_argla_l,3,02-01-2011,21:36:21,75.0,225.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+494,22,bbq_ckn_m,2,02-01-2011,21:40:08,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+495,12,mexicana_s,1,02-01-2011,21:40:47,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+496,22,bbq_ckn_m,1,02-01-2011,21:43:58,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+497,23,bbq_ckn_l,1,02-01-2011,21:44:59,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+498,21,bbq_ckn_s,1,02-01-2011,21:45:08,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+499,21,bbq_ckn_s,1,02-01-2011,21:45:33,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+500,21,bbq_ckn_s,1,02-01-2011,21:46:21,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+501,21,bbq_ckn_s,1,02-01-2011,21:46:46,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+502,21,bbq_ckn_s,1,02-01-2011,21:48:51,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+503,23,bbq_ckn_l,2,02-01-2011,21:49:24,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+504,23,bbq_ckn_l,1,02-01-2011,21:49:26,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+505,21,bbq_ckn_s,1,02-01-2011,21:50:32,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+506,21,bbq_ckn_s,1,02-01-2011,21:51:40,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+507,10,italupr_m,1,02-01-2011,21:53:14,65.0,65.0,M,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+508,22,bbq_ckn_m,2,02-01-2011,21:53:46,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+509,11,italupr_l,2,02-01-2011,21:53:46,75.0,150.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+510,23,bbq_ckn_l,1,02-01-2011,21:53:50,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+511,0,hawaiian_s,1,02-01-2011,21:55:09,50.0,50.0,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+512,11,italupr_l,1,02-01-2011,21:57:22,75.0,75.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+513,21,bbq_ckn_s,1,02-01-2011,21:57:33,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+514,10,italupr_m,2,02-01-2011,21:58:04,65.0,130.0,M,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+515,18,prsc_argla_s,2,02-01-2011,21:59:59,50.0,100.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+516,23,bbq_ckn_l,2,02-01-2011,22:00:18,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+517,21,bbq_ckn_s,1,02-01-2011,22:00:30,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+518,1,hawaiian_m,3,02-01-2011,22:00:45,65.0,195.0,M,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+519,14,mexicana_l,1,02-01-2011,22:02:04,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+520,14,mexicana_l,1,02-01-2011,22:03:30,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+521,12,mexicana_s,2,02-01-2011,22:06:21,50.0,100.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+522,21,bbq_ckn_s,1,02-01-2011,22:07:55,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+523,12,mexicana_s,1,02-01-2011,22:08:30,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+524,19,prsc_argla_m,1,02-01-2011,22:08:50,65.0,65.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+525,23,bbq_ckn_l,2,02-01-2011,22:09:37,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+526,21,bbq_ckn_s,1,02-01-2011,22:09:52,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+527,20,prsc_argla_l,1,02-01-2011,22:10:00,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+528,23,bbq_ckn_l,1,02-01-2011,22:12:07,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+529,2,hawaiian_l,1,02-01-2011,22:12:36,75.0,75.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+530,22,bbq_ckn_m,2,02-01-2011,22:16:28,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+531,21,bbq_ckn_s,2,02-01-2011,22:16:47,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+532,22,bbq_ckn_m,1,02-01-2011,22:17:07,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+533,11,italupr_l,3,02-01-2011,22:17:17,75.0,225.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+534,23,bbq_ckn_l,1,02-01-2011,22:17:41,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+535,22,bbq_ckn_m,2,02-01-2011,22:18:23,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+536,22,bbq_ckn_m,1,02-01-2011,22:18:38,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+537,21,bbq_ckn_s,2,02-01-2011,22:18:46,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+538,23,bbq_ckn_l,2,02-01-2011,22:19:05,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+539,18,prsc_argla_s,1,02-01-2011,22:19:16,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+540,18,prsc_argla_s,1,02-01-2011,22:20:15,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+541,23,bbq_ckn_l,1,02-01-2011,22:21:18,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+542,22,bbq_ckn_m,4,02-01-2011,22:22:05,65.0,260.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+543,22,bbq_ckn_m,1,02-01-2011,22:22:23,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+544,22,bbq_ckn_m,3,02-01-2011,22:23:28,65.0,195.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+545,21,bbq_ckn_s,1,02-01-2011,22:23:38,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+546,21,bbq_ckn_s,1,02-01-2011,22:24:31,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+547,9,italupr_s,1,02-01-2011,22:25:08,50.0,50.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+548,18,prsc_argla_s,3,02-01-2011,22:25:14,50.0,150.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+549,23,bbq_ckn_l,1,02-01-2011,22:27:28,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+550,0,hawaiian_s,1,02-01-2011,22:28:08,50.0,50.0,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+551,21,bbq_ckn_s,1,02-01-2011,22:28:32,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+552,23,bbq_ckn_l,1,02-01-2011,22:29:18,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+553,23,bbq_ckn_l,3,02-01-2011,22:29:28,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+554,23,bbq_ckn_l,2,02-01-2011,22:30:45,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+555,20,prsc_argla_l,2,02-01-2011,22:31:47,75.0,150.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+556,21,bbq_ckn_s,1,02-01-2011,22:33:30,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+557,0,hawaiian_s,1,02-01-2011,22:36:05,50.0,50.0,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+558,23,bbq_ckn_l,1,02-01-2011,22:36:21,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+559,23,bbq_ckn_l,1,02-01-2011,22:38:28,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+560,21,bbq_ckn_s,1,02-01-2011,22:39:06,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+561,23,bbq_ckn_l,1,02-01-2011,22:39:42,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+562,21,bbq_ckn_s,1,02-01-2011,22:40:43,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+563,2,hawaiian_l,1,02-01-2011,22:41:55,75.0,75.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+564,23,bbq_ckn_l,4,02-01-2011,22:43:42,75.0,300.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+565,23,bbq_ckn_l,1,02-01-2011,22:43:54,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+566,23,bbq_ckn_l,3,02-01-2011,22:44:43,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+567,2,hawaiian_l,1,02-01-2011,22:46:30,75.0,75.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+568,9,italupr_s,1,02-01-2011,22:47:03,50.0,50.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+569,21,bbq_ckn_s,1,02-01-2011,22:48:07,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+570,23,bbq_ckn_l,1,02-01-2011,22:51:36,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+571,2,hawaiian_l,1,02-01-2011,22:52:31,75.0,75.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+572,2,hawaiian_l,2,02-01-2011,22:56:10,75.0,150.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+573,14,mexicana_l,2,02-01-2011,22:56:44,75.0,150.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+574,22,bbq_ckn_m,1,02-01-2011,22:59:24,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+575,22,bbq_ckn_m,1,02-01-2011,22:59:48,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+576,12,mexicana_s,2,02-01-2011,22:59:56,50.0,100.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+577,5,classic_dlx_l,1,03-01-2011,18:00:54,75.0,75.0,L,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza
+578,23,bbq_ckn_l,1,03-01-2011,18:01:37,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+579,11,italupr_l,1,03-01-2011,18:02:26,75.0,75.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+580,21,bbq_ckn_s,2,03-01-2011,18:03:00,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+581,0,hawaiian_s,1,03-01-2011,18:04:43,50.0,50.0,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+582,23,bbq_ckn_l,1,03-01-2011,18:04:56,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+583,23,bbq_ckn_l,1,03-01-2011,18:05:35,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+584,23,bbq_ckn_l,1,03-01-2011,18:06:41,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+585,23,bbq_ckn_l,1,03-01-2011,18:06:46,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+586,22,bbq_ckn_m,1,03-01-2011,18:07:23,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+587,20,prsc_argla_l,1,03-01-2011,18:09:40,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+588,11,italupr_l,1,03-01-2011,18:10:47,75.0,75.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+589,12,mexicana_s,1,03-01-2011,18:11:09,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+590,9,italupr_s,1,03-01-2011,18:12:25,50.0,50.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+591,11,italupr_l,1,03-01-2011,18:12:56,75.0,75.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+592,23,bbq_ckn_l,1,03-01-2011,18:13:45,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+593,23,bbq_ckn_l,1,03-01-2011,18:16:31,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+594,23,bbq_ckn_l,1,03-01-2011,18:17:02,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+595,23,bbq_ckn_l,1,03-01-2011,18:17:29,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+596,23,bbq_ckn_l,2,03-01-2011,18:17:42,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+597,20,prsc_argla_l,1,03-01-2011,18:19:50,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+598,20,prsc_argla_l,1,03-01-2011,18:20:49,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+599,23,bbq_ckn_l,2,03-01-2011,18:20:56,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+600,23,bbq_ckn_l,1,03-01-2011,18:23:01,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+601,20,prsc_argla_l,1,03-01-2011,18:23:34,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+602,23,bbq_ckn_l,3,03-01-2011,18:23:59,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+603,23,bbq_ckn_l,1,03-01-2011,18:24:55,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+604,22,bbq_ckn_m,1,03-01-2011,18:27:22,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+605,23,bbq_ckn_l,1,03-01-2011,18:28:56,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+606,11,italupr_l,2,03-01-2011,18:29:13,75.0,150.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+607,23,bbq_ckn_l,1,03-01-2011,18:29:15,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+608,23,bbq_ckn_l,3,03-01-2011,18:29:41,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+609,21,bbq_ckn_s,1,03-01-2011,18:30:57,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+610,12,mexicana_s,1,03-01-2011,18:31:20,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+611,21,bbq_ckn_s,1,03-01-2011,18:33:21,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+612,23,bbq_ckn_l,2,03-01-2011,18:34:21,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+613,22,bbq_ckn_m,1,03-01-2011,18:35:14,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+614,22,bbq_ckn_m,1,03-01-2011,18:35:53,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+615,21,bbq_ckn_s,1,03-01-2011,18:36:40,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+616,14,mexicana_l,1,03-01-2011,18:37:04,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+617,23,bbq_ckn_l,1,03-01-2011,18:37:08,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+618,1,hawaiian_m,2,03-01-2011,18:38:36,65.0,130.0,M,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+619,20,prsc_argla_l,1,03-01-2011,18:40:28,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+620,23,bbq_ckn_l,1,03-01-2011,18:40:53,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+621,21,bbq_ckn_s,1,03-01-2011,18:41:05,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+622,0,hawaiian_s,2,03-01-2011,18:41:30,50.0,100.0,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+623,21,bbq_ckn_s,2,03-01-2011,18:42:19,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+624,12,mexicana_s,1,03-01-2011,18:42:22,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+625,22,bbq_ckn_m,1,03-01-2011,18:42:50,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+626,23,bbq_ckn_l,1,03-01-2011,18:46:18,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+627,10,italupr_m,2,03-01-2011,18:46:59,65.0,130.0,M,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+628,11,italupr_l,1,03-01-2011,18:47:07,75.0,75.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+629,21,bbq_ckn_s,3,03-01-2011,18:47:14,50.0,150.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+630,22,bbq_ckn_m,1,03-01-2011,18:48:12,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+631,14,mexicana_l,1,03-01-2011,18:48:37,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+632,12,mexicana_s,2,03-01-2011,18:48:53,50.0,100.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+633,23,bbq_ckn_l,3,03-01-2011,18:50:01,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+634,9,italupr_s,1,03-01-2011,18:50:23,50.0,50.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+635,21,bbq_ckn_s,1,03-01-2011,18:52:04,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+636,23,bbq_ckn_l,1,03-01-2011,18:54:24,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+637,23,bbq_ckn_l,1,03-01-2011,18:56:31,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+638,22,bbq_ckn_m,3,03-01-2011,18:56:32,65.0,195.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+639,23,bbq_ckn_l,1,03-01-2011,18:56:49,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+640,21,bbq_ckn_s,2,03-01-2011,18:57:05,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+641,23,bbq_ckn_l,1,03-01-2011,18:58:06,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+642,14,mexicana_l,1,03-01-2011,18:59:01,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+643,21,bbq_ckn_s,1,03-01-2011,18:59:59,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+644,21,bbq_ckn_s,1,03-01-2011,19:00:15,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+645,23,bbq_ckn_l,1,03-01-2011,19:00:57,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+646,23,bbq_ckn_l,1,03-01-2011,19:01:04,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+647,22,bbq_ckn_m,1,03-01-2011,19:06:14,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+648,18,prsc_argla_s,1,03-01-2011,19:06:46,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+649,12,mexicana_s,1,03-01-2011,19:07:11,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+650,21,bbq_ckn_s,1,03-01-2011,19:07:28,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+651,14,mexicana_l,1,03-01-2011,19:08:28,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+652,23,bbq_ckn_l,1,03-01-2011,19:08:58,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+653,19,prsc_argla_m,1,03-01-2011,19:09:52,65.0,65.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+654,18,prsc_argla_s,1,03-01-2011,19:10:10,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+655,23,bbq_ckn_l,3,03-01-2011,19:10:40,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+656,23,bbq_ckn_l,3,03-01-2011,19:12:01,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+657,5,classic_dlx_l,1,03-01-2011,19:12:02,75.0,75.0,L,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza
+658,22,bbq_ckn_m,1,03-01-2011,19:12:24,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+659,21,bbq_ckn_s,1,03-01-2011,19:12:26,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+660,11,italupr_l,2,03-01-2011,19:12:30,75.0,150.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+661,22,bbq_ckn_m,1,03-01-2011,19:12:51,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+662,23,bbq_ckn_l,1,03-01-2011,19:13:22,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+663,21,bbq_ckn_s,2,03-01-2011,19:15:24,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+664,14,mexicana_l,1,03-01-2011,19:15:46,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+665,14,mexicana_l,1,03-01-2011,19:16:45,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+666,22,bbq_ckn_m,1,03-01-2011,19:17:52,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+667,21,bbq_ckn_s,4,03-01-2011,19:18:02,50.0,200.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+668,23,bbq_ckn_l,2,03-01-2011,19:18:34,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+669,19,prsc_argla_m,3,03-01-2011,19:18:36,65.0,195.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+670,21,bbq_ckn_s,1,03-01-2011,19:19:14,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+671,5,classic_dlx_l,2,03-01-2011,19:19:50,75.0,150.0,L,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza
+672,18,prsc_argla_s,1,03-01-2011,19:20:14,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+673,18,prsc_argla_s,2,03-01-2011,19:21:12,50.0,100.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+674,20,prsc_argla_l,1,03-01-2011,19:21:13,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+675,23,bbq_ckn_l,2,03-01-2011,19:23:26,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+676,21,bbq_ckn_s,1,03-01-2011,19:23:50,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+677,18,prsc_argla_s,1,03-01-2011,19:24:12,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+678,22,bbq_ckn_m,1,03-01-2011,19:24:23,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+679,19,prsc_argla_m,4,03-01-2011,19:24:27,65.0,260.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+680,23,bbq_ckn_l,1,03-01-2011,19:25:38,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+681,20,prsc_argla_l,1,03-01-2011,19:26:13,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+682,22,bbq_ckn_m,2,03-01-2011,19:27:08,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+683,18,prsc_argla_s,3,03-01-2011,19:27:36,50.0,150.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+684,18,prsc_argla_s,1,03-01-2011,19:29:53,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+685,21,bbq_ckn_s,1,03-01-2011,19:30:20,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+686,19,prsc_argla_m,1,03-01-2011,19:32:06,65.0,65.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+687,21,bbq_ckn_s,1,03-01-2011,19:32:08,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+688,23,bbq_ckn_l,1,03-01-2011,19:34:01,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+689,14,mexicana_l,2,03-01-2011,19:34:15,75.0,150.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+690,21,bbq_ckn_s,1,03-01-2011,19:34:56,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+691,13,mexicana_m,1,03-01-2011,19:35:04,65.0,65.0,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+692,22,bbq_ckn_m,2,03-01-2011,19:36:14,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+693,23,bbq_ckn_l,1,03-01-2011,19:36:23,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+694,21,bbq_ckn_s,1,03-01-2011,19:38:27,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+695,11,italupr_l,1,03-01-2011,19:39:28,75.0,75.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+696,22,bbq_ckn_m,1,03-01-2011,19:40:22,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+697,23,bbq_ckn_l,1,03-01-2011,19:41:02,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+698,3,classic_dlx_s,1,03-01-2011,19:43:15,50.0,50.0,S,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza
+699,21,bbq_ckn_s,1,03-01-2011,19:43:43,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+700,22,bbq_ckn_m,1,03-01-2011,19:44:08,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+701,14,mexicana_l,1,03-01-2011,19:44:31,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+702,19,prsc_argla_m,1,03-01-2011,19:46:28,65.0,65.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+703,14,mexicana_l,1,03-01-2011,19:47:35,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+704,14,mexicana_l,2,03-01-2011,19:48:01,75.0,150.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+705,23,bbq_ckn_l,1,03-01-2011,19:48:14,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+706,22,bbq_ckn_m,1,03-01-2011,19:51:02,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+707,23,bbq_ckn_l,1,03-01-2011,19:51:23,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+708,21,bbq_ckn_s,2,03-01-2011,19:51:24,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+709,22,bbq_ckn_m,1,03-01-2011,19:52:47,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+710,21,bbq_ckn_s,2,03-01-2011,19:53:06,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+711,23,bbq_ckn_l,1,03-01-2011,19:54:46,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+712,20,prsc_argla_l,4,03-01-2011,19:55:34,75.0,300.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+713,13,mexicana_m,2,03-01-2011,19:57:31,65.0,130.0,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+714,21,bbq_ckn_s,3,03-01-2011,19:57:33,50.0,150.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+715,23,bbq_ckn_l,1,03-01-2011,19:59:19,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+716,21,bbq_ckn_s,2,03-01-2011,19:59:38,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+717,21,bbq_ckn_s,1,03-01-2011,20:00:11,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+718,21,bbq_ckn_s,1,03-01-2011,20:00:45,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+719,23,bbq_ckn_l,1,03-01-2011,20:01:42,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+720,13,mexicana_m,1,03-01-2011,20:02:06,65.0,65.0,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+721,14,mexicana_l,4,03-01-2011,20:03:33,75.0,300.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+722,21,bbq_ckn_s,2,03-01-2011,20:04:37,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+723,21,bbq_ckn_s,3,03-01-2011,20:05:40,50.0,150.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+724,23,bbq_ckn_l,2,03-01-2011,20:05:54,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+725,14,mexicana_l,3,03-01-2011,20:06:01,75.0,225.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+726,23,bbq_ckn_l,2,03-01-2011,20:06:15,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+727,23,bbq_ckn_l,1,03-01-2011,20:06:34,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+728,13,mexicana_m,1,03-01-2011,20:08:09,65.0,65.0,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+729,18,prsc_argla_s,3,03-01-2011,20:10:08,50.0,150.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+730,22,bbq_ckn_m,1,03-01-2011,20:10:21,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+731,22,bbq_ckn_m,4,03-01-2011,20:10:44,65.0,260.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+732,23,bbq_ckn_l,3,03-01-2011,20:11:35,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+733,14,mexicana_l,1,03-01-2011,20:16:29,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+734,23,bbq_ckn_l,1,03-01-2011,20:16:38,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+735,18,prsc_argla_s,1,03-01-2011,20:16:55,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+736,23,bbq_ckn_l,1,03-01-2011,20:17:26,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+737,21,bbq_ckn_s,1,03-01-2011,20:18:44,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+738,21,bbq_ckn_s,1,03-01-2011,20:21:43,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+739,22,bbq_ckn_m,2,03-01-2011,20:22:43,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+740,21,bbq_ckn_s,2,03-01-2011,20:22:52,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+741,20,prsc_argla_l,2,03-01-2011,20:23:10,75.0,150.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+742,21,bbq_ckn_s,1,03-01-2011,20:23:23,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+743,10,italupr_m,1,03-01-2011,20:23:34,65.0,65.0,M,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+744,23,bbq_ckn_l,1,03-01-2011,20:23:42,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+745,23,bbq_ckn_l,1,03-01-2011,20:25:37,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+746,23,bbq_ckn_l,1,03-01-2011,20:26:22,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+747,23,bbq_ckn_l,1,03-01-2011,20:26:43,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+748,19,prsc_argla_m,1,03-01-2011,20:27:01,65.0,65.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+749,0,hawaiian_s,3,03-01-2011,20:27:54,50.0,150.0,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+750,23,bbq_ckn_l,1,03-01-2011,20:30:02,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+751,22,bbq_ckn_m,1,03-01-2011,20:30:17,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+752,22,bbq_ckn_m,1,03-01-2011,20:31:11,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+753,21,bbq_ckn_s,1,03-01-2011,20:31:53,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+754,20,prsc_argla_l,1,03-01-2011,20:33:06,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+755,22,bbq_ckn_m,2,03-01-2011,20:35:38,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+756,9,italupr_s,1,03-01-2011,20:38:15,50.0,50.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+757,14,mexicana_l,1,03-01-2011,20:38:45,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+758,21,bbq_ckn_s,1,03-01-2011,20:39:13,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+759,2,hawaiian_l,3,03-01-2011,20:39:25,75.0,225.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+760,21,bbq_ckn_s,1,03-01-2011,20:39:45,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+761,18,prsc_argla_s,1,03-01-2011,20:40:52,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+762,1,hawaiian_m,3,03-01-2011,20:41:41,65.0,195.0,M,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+763,21,bbq_ckn_s,1,03-01-2011,20:41:58,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+764,22,bbq_ckn_m,1,03-01-2011,20:45:36,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+765,22,bbq_ckn_m,3,03-01-2011,20:46:01,65.0,195.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+766,23,bbq_ckn_l,1,03-01-2011,20:46:16,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+767,18,prsc_argla_s,3,03-01-2011,20:46:55,50.0,150.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+768,23,bbq_ckn_l,3,03-01-2011,20:48:29,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+769,20,prsc_argla_l,1,03-01-2011,20:49:17,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+770,21,bbq_ckn_s,1,03-01-2011,20:50:00,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+771,23,bbq_ckn_l,2,03-01-2011,20:51:39,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+772,23,bbq_ckn_l,1,03-01-2011,20:51:40,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+773,21,bbq_ckn_s,1,03-01-2011,20:53:34,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+774,20,prsc_argla_l,1,03-01-2011,20:54:06,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+775,23,bbq_ckn_l,4,03-01-2011,20:55:26,75.0,300.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+776,21,bbq_ckn_s,1,03-01-2011,20:55:56,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+777,0,hawaiian_s,2,03-01-2011,20:56:22,50.0,100.0,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+778,23,bbq_ckn_l,1,03-01-2011,20:56:46,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+779,22,bbq_ckn_m,1,03-01-2011,20:57:07,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+780,23,bbq_ckn_l,2,03-01-2011,20:58:06,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+781,21,bbq_ckn_s,1,03-01-2011,20:58:28,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+782,12,mexicana_s,3,03-01-2011,20:58:29,50.0,150.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+783,21,bbq_ckn_s,1,03-01-2011,20:59:50,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+784,23,bbq_ckn_l,1,03-01-2011,20:59:59,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+785,23,bbq_ckn_l,1,03-01-2011,21:00:07,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+786,23,bbq_ckn_l,1,03-01-2011,21:00:10,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+787,21,bbq_ckn_s,1,03-01-2011,21:00:31,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+788,19,prsc_argla_m,1,03-01-2011,21:01:21,65.0,65.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+789,20,prsc_argla_l,1,03-01-2011,21:01:23,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+790,23,bbq_ckn_l,1,03-01-2011,21:05:32,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+791,14,mexicana_l,3,03-01-2011,21:05:46,75.0,225.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+792,23,bbq_ckn_l,1,03-01-2011,21:05:50,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+793,19,prsc_argla_m,1,03-01-2011,21:06:48,65.0,65.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+794,1,hawaiian_m,1,03-01-2011,21:09:27,65.0,65.0,M,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+795,22,bbq_ckn_m,2,03-01-2011,21:10:58,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+796,22,bbq_ckn_m,1,03-01-2011,21:11:12,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+797,21,bbq_ckn_s,1,03-01-2011,21:11:15,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+798,12,mexicana_s,2,03-01-2011,21:13:28,50.0,100.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+799,21,bbq_ckn_s,1,03-01-2011,21:14:42,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+800,20,prsc_argla_l,1,03-01-2011,21:16:00,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+801,18,prsc_argla_s,1,03-01-2011,21:16:03,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+802,23,bbq_ckn_l,1,03-01-2011,21:16:28,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+803,23,bbq_ckn_l,1,03-01-2011,21:16:59,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+804,0,hawaiian_s,1,03-01-2011,21:17:21,50.0,50.0,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+805,19,prsc_argla_m,2,03-01-2011,21:20:06,65.0,130.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+806,21,bbq_ckn_s,1,03-01-2011,21:21:10,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+807,21,bbq_ckn_s,1,03-01-2011,21:21:30,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+808,23,bbq_ckn_l,1,03-01-2011,21:21:44,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+809,22,bbq_ckn_m,3,03-01-2011,21:24:26,65.0,195.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+810,21,bbq_ckn_s,2,03-01-2011,21:25:49,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+811,21,bbq_ckn_s,3,03-01-2011,21:26:05,50.0,150.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+812,23,bbq_ckn_l,1,03-01-2011,21:26:48,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+813,12,mexicana_s,1,03-01-2011,21:27:38,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+814,11,italupr_l,1,03-01-2011,21:27:59,75.0,75.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+815,22,bbq_ckn_m,1,03-01-2011,21:28:19,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+816,12,mexicana_s,5,03-01-2011,21:30:11,50.0,250.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+817,2,hawaiian_l,2,03-01-2011,21:32:06,75.0,150.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+818,22,bbq_ckn_m,1,03-01-2011,21:33:23,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+819,21,bbq_ckn_s,1,03-01-2011,21:35:20,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+820,23,bbq_ckn_l,1,03-01-2011,21:35:30,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+821,23,bbq_ckn_l,3,03-01-2011,21:36:03,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+822,23,bbq_ckn_l,1,03-01-2011,21:37:24,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+823,22,bbq_ckn_m,1,03-01-2011,21:37:52,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+824,23,bbq_ckn_l,1,03-01-2011,21:38:16,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+825,22,bbq_ckn_m,2,03-01-2011,21:38:30,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+826,23,bbq_ckn_l,2,03-01-2011,21:41:16,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+827,22,bbq_ckn_m,1,03-01-2011,21:42:07,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+828,21,bbq_ckn_s,2,03-01-2011,21:42:12,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+829,23,bbq_ckn_l,1,03-01-2011,21:43:08,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+830,23,bbq_ckn_l,1,03-01-2011,21:43:08,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+831,3,classic_dlx_s,1,03-01-2011,21:43:23,50.0,50.0,S,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza
+832,23,bbq_ckn_l,2,03-01-2011,21:44:24,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+833,0,hawaiian_s,1,03-01-2011,21:46:18,50.0,50.0,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+834,18,prsc_argla_s,2,03-01-2011,21:47:11,50.0,100.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+835,23,bbq_ckn_l,3,03-01-2011,21:48:53,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+836,14,mexicana_l,1,03-01-2011,21:50:54,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+837,23,bbq_ckn_l,1,03-01-2011,21:51:05,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+838,22,bbq_ckn_m,1,03-01-2011,21:51:56,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+839,12,mexicana_s,1,03-01-2011,21:52:23,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+840,22,bbq_ckn_m,1,03-01-2011,21:52:29,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+841,20,prsc_argla_l,1,03-01-2011,21:53:51,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+842,13,mexicana_m,1,03-01-2011,21:55:16,65.0,65.0,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+843,14,mexicana_l,1,03-01-2011,21:55:59,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+844,11,italupr_l,2,03-01-2011,21:56:02,75.0,150.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+845,3,classic_dlx_s,1,03-01-2011,21:56:54,50.0,50.0,S,Classic,"Pepperoni, Mushrooms, Red Onions, Red Peppers, Bacon",The Classic Deluxe Pizza
+846,22,bbq_ckn_m,1,03-01-2011,21:57:02,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+847,23,bbq_ckn_l,3,03-01-2011,21:57:19,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+848,23,bbq_ckn_l,1,03-01-2011,21:58:52,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+849,23,bbq_ckn_l,3,03-01-2011,21:59:37,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+850,21,bbq_ckn_s,3,03-01-2011,22:00:58,50.0,150.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+851,23,bbq_ckn_l,2,03-01-2011,22:01:07,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+852,22,bbq_ckn_m,1,03-01-2011,22:01:07,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+853,23,bbq_ckn_l,1,03-01-2011,22:01:31,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+854,23,bbq_ckn_l,1,03-01-2011,22:02:25,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+855,12,mexicana_s,2,03-01-2011,22:03:00,50.0,100.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+856,11,italupr_l,2,03-01-2011,22:03:16,75.0,150.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+857,23,bbq_ckn_l,4,03-01-2011,22:03:45,75.0,300.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+858,23,bbq_ckn_l,1,03-01-2011,22:03:56,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+859,22,bbq_ckn_m,1,03-01-2011,22:05:10,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+860,10,italupr_m,1,03-01-2011,22:07:48,65.0,65.0,M,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+861,21,bbq_ckn_s,1,03-01-2011,22:07:51,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+862,14,mexicana_l,1,03-01-2011,22:08:01,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+863,19,prsc_argla_m,1,03-01-2011,22:10:01,65.0,65.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+864,2,hawaiian_l,1,03-01-2011,22:10:54,75.0,75.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+865,22,bbq_ckn_m,1,03-01-2011,22:12:42,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+866,23,bbq_ckn_l,3,03-01-2011,22:12:42,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+867,23,bbq_ckn_l,1,03-01-2011,22:13:16,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+868,20,prsc_argla_l,1,03-01-2011,22:13:19,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+869,20,prsc_argla_l,1,03-01-2011,22:14:21,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+870,23,bbq_ckn_l,4,03-01-2011,22:14:27,75.0,300.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+871,21,bbq_ckn_s,1,03-01-2011,22:14:49,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+872,23,bbq_ckn_l,1,03-01-2011,22:15:36,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+873,23,bbq_ckn_l,2,03-01-2011,22:15:41,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+874,21,bbq_ckn_s,2,03-01-2011,22:15:56,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+875,23,bbq_ckn_l,2,03-01-2011,22:16:37,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+876,2,hawaiian_l,1,03-01-2011,22:17:32,75.0,75.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+877,22,bbq_ckn_m,1,03-01-2011,22:17:33,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+878,22,bbq_ckn_m,1,03-01-2011,22:18:04,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+879,20,prsc_argla_l,2,03-01-2011,22:18:17,75.0,150.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+880,14,mexicana_l,2,03-01-2011,22:18:21,75.0,150.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+881,23,bbq_ckn_l,1,03-01-2011,22:18:39,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+882,20,prsc_argla_l,1,03-01-2011,22:18:41,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+883,20,prsc_argla_l,2,03-01-2011,22:19:18,75.0,150.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+884,21,bbq_ckn_s,1,03-01-2011,22:21:34,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+885,18,prsc_argla_s,3,03-01-2011,22:23:25,50.0,150.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+886,21,bbq_ckn_s,1,03-01-2011,22:25:31,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+887,14,mexicana_l,1,03-01-2011,22:25:42,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+888,21,bbq_ckn_s,1,03-01-2011,22:25:53,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+889,22,bbq_ckn_m,1,03-01-2011,22:26:42,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+890,11,italupr_l,3,03-01-2011,22:28:39,75.0,225.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+891,21,bbq_ckn_s,3,03-01-2011,22:29:57,50.0,150.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+892,14,mexicana_l,1,03-01-2011,22:35:39,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+893,23,bbq_ckn_l,2,03-01-2011,22:36:03,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+894,23,bbq_ckn_l,1,03-01-2011,22:36:26,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+895,21,bbq_ckn_s,2,03-01-2011,22:37:06,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+896,23,bbq_ckn_l,1,03-01-2011,22:37:38,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+897,23,bbq_ckn_l,2,03-01-2011,22:38:03,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+898,22,bbq_ckn_m,1,03-01-2011,22:38:09,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+899,21,bbq_ckn_s,2,03-01-2011,22:39:36,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+900,23,bbq_ckn_l,2,03-01-2011,22:41:30,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+901,22,bbq_ckn_m,1,03-01-2011,22:42:47,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+902,18,prsc_argla_s,1,03-01-2011,22:44:16,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+903,23,bbq_ckn_l,1,03-01-2011,22:47:45,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+904,21,bbq_ckn_s,1,03-01-2011,22:48:07,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+905,23,bbq_ckn_l,1,03-01-2011,22:48:54,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+906,23,bbq_ckn_l,2,03-01-2011,22:49:43,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+907,12,mexicana_s,1,03-01-2011,22:50:11,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+908,23,bbq_ckn_l,1,03-01-2011,22:50:42,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+909,23,bbq_ckn_l,1,03-01-2011,22:50:42,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+910,21,bbq_ckn_s,2,03-01-2011,22:51:36,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+911,12,mexicana_s,1,03-01-2011,22:52:33,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+912,23,bbq_ckn_l,1,03-01-2011,22:53:04,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+913,21,bbq_ckn_s,1,03-01-2011,22:53:51,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+914,21,bbq_ckn_s,3,03-01-2011,22:53:52,50.0,150.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+915,14,mexicana_l,1,03-01-2011,22:54:01,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+916,23,bbq_ckn_l,1,03-01-2011,22:54:24,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+917,22,bbq_ckn_m,1,03-01-2011,22:55:04,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+918,21,bbq_ckn_s,1,03-01-2011,22:56:30,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+919,19,prsc_argla_m,1,03-01-2011,22:59:27,65.0,65.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+920,22,bbq_ckn_m,1,05-01-2011,18:00:03,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+921,23,bbq_ckn_l,3,05-01-2011,18:00:23,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+922,21,bbq_ckn_s,1,05-01-2011,18:00:35,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+923,0,hawaiian_s,1,05-01-2011,18:00:53,50.0,50.0,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+924,10,italupr_m,1,05-01-2011,18:02:15,65.0,65.0,M,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+925,22,bbq_ckn_m,1,05-01-2011,18:02:19,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+926,21,bbq_ckn_s,1,05-01-2011,18:03:10,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+927,23,bbq_ckn_l,1,05-01-2011,18:04:49,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+928,21,bbq_ckn_s,1,05-01-2011,18:05:41,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+929,9,italupr_s,2,05-01-2011,18:06:10,50.0,100.0,S,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+930,23,bbq_ckn_l,1,05-01-2011,18:07:14,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+931,14,mexicana_l,3,05-01-2011,18:07:23,75.0,225.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+932,20,prsc_argla_l,1,05-01-2011,18:09:49,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+933,22,bbq_ckn_m,2,05-01-2011,18:09:56,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+934,18,prsc_argla_s,3,05-01-2011,18:10:23,50.0,150.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+935,21,bbq_ckn_s,2,05-01-2011,18:10:54,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+936,21,bbq_ckn_s,3,05-01-2011,18:14:44,50.0,150.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+937,22,bbq_ckn_m,1,05-01-2011,18:16:09,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+938,21,bbq_ckn_s,2,05-01-2011,18:16:37,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+939,23,bbq_ckn_l,1,05-01-2011,18:17:08,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+940,23,bbq_ckn_l,1,05-01-2011,18:17:56,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+941,23,bbq_ckn_l,1,05-01-2011,18:18:15,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+942,14,mexicana_l,1,05-01-2011,18:18:16,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+943,23,bbq_ckn_l,1,05-01-2011,18:18:56,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+944,21,bbq_ckn_s,2,05-01-2011,18:18:58,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+945,23,bbq_ckn_l,1,05-01-2011,18:19:26,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+946,23,bbq_ckn_l,3,05-01-2011,18:20:46,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+947,14,mexicana_l,2,05-01-2011,18:21:37,75.0,150.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+948,21,bbq_ckn_s,2,05-01-2011,18:21:41,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+949,23,bbq_ckn_l,1,05-01-2011,18:22:02,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+950,21,bbq_ckn_s,2,05-01-2011,18:22:27,50.0,100.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+951,22,bbq_ckn_m,1,05-01-2011,18:22:32,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+952,14,mexicana_l,3,05-01-2011,18:31:56,75.0,225.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+953,10,italupr_m,1,05-01-2011,18:33:56,65.0,65.0,M,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+954,13,mexicana_m,1,05-01-2011,18:34:19,65.0,65.0,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+955,0,hawaiian_s,2,05-01-2011,18:34:57,50.0,100.0,S,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+956,21,bbq_ckn_s,1,05-01-2011,18:35:06,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+957,12,mexicana_s,2,05-01-2011,18:35:38,50.0,100.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+958,23,bbq_ckn_l,3,05-01-2011,18:36:03,75.0,225.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+959,20,prsc_argla_l,1,05-01-2011,18:36:28,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+960,18,prsc_argla_s,1,05-01-2011,18:39:55,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+961,12,mexicana_s,2,05-01-2011,18:40:24,50.0,100.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+962,21,bbq_ckn_s,1,05-01-2011,18:40:44,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+963,20,prsc_argla_l,1,05-01-2011,18:41:01,75.0,75.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+964,22,bbq_ckn_m,1,05-01-2011,18:42:22,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+965,21,bbq_ckn_s,1,05-01-2011,18:44:03,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+966,12,mexicana_s,1,05-01-2011,18:44:05,50.0,50.0,S,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+967,14,mexicana_l,1,05-01-2011,18:46:21,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+968,14,mexicana_l,1,05-01-2011,18:46:58,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+969,22,bbq_ckn_m,2,05-01-2011,18:46:58,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+970,21,bbq_ckn_s,1,05-01-2011,18:47:42,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+971,22,bbq_ckn_m,1,05-01-2011,18:48:54,65.0,65.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+972,18,prsc_argla_s,1,05-01-2011,18:49:04,50.0,50.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+973,13,mexicana_m,1,05-01-2011,18:49:58,65.0,65.0,M,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+974,19,prsc_argla_m,1,05-01-2011,18:50:06,65.0,65.0,M,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+975,1,hawaiian_m,1,05-01-2011,18:50:33,65.0,65.0,M,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+976,2,hawaiian_l,1,05-01-2011,18:51:01,75.0,75.0,L,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+977,20,prsc_argla_l,2,05-01-2011,18:51:59,75.0,150.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+978,11,italupr_l,3,05-01-2011,18:52:05,75.0,225.0,L,Supreme,"Calabrese Salami, Capocollo, Tomatoes, Red Onions, Green Olives, Garlic",The Italian Supreme Pizza
+979,23,bbq_ckn_l,1,05-01-2011,18:53:29,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+980,23,bbq_ckn_l,1,05-01-2011,18:53:37,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+981,22,bbq_ckn_m,2,05-01-2011,18:54:09,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+982,14,mexicana_l,1,05-01-2011,18:54:21,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+983,18,prsc_argla_s,3,05-01-2011,18:55:13,50.0,150.0,S,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+984,21,bbq_ckn_s,1,05-01-2011,18:56:32,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+985,23,bbq_ckn_l,2,05-01-2011,18:56:37,75.0,150.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+986,1,hawaiian_m,1,05-01-2011,18:57:21,65.0,65.0,M,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+987,20,prsc_argla_l,2,05-01-2011,18:58:23,75.0,150.0,L,Supreme,"Prosciutto di San Daniele, Arugula, Mozzarella Cheese",The Prosciutto and Arugula Pizza
+988,21,bbq_ckn_s,1,05-01-2011,18:59:06,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+989,22,bbq_ckn_m,2,05-01-2011,19:00:32,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+990,14,mexicana_l,1,05-01-2011,19:02:23,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+991,23,bbq_ckn_l,1,05-01-2011,19:02:33,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+992,23,bbq_ckn_l,1,05-01-2011,19:03:05,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+993,14,mexicana_l,1,05-01-2011,19:03:59,75.0,75.0,L,Veggie,"Tomatoes, Red Peppers, Jalapeno Peppers, Red Onions, Cilantro, Corn, Chipotle Sauce, Garlic",The Mexicana Pizza
+994,22,bbq_ckn_m,2,05-01-2011,19:04:53,65.0,130.0,M,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+995,21,bbq_ckn_s,1,05-01-2011,19:05:21,50.0,50.0,S,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+996,23,bbq_ckn_l,1,05-01-2011,19:05:41,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+997,1,hawaiian_m,1,05-01-2011,19:05:42,65.0,65.0,M,Classic,"Sliced Ham, Pineapple, Mozzarella Cheese",The Hawaiian Pizza
+998,23,bbq_ckn_l,1,05-01-2011,19:06:38,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
+999,23,bbq_ckn_l,1,05-01-2011,19:06:46,75.0,75.0,L,Chicken,"Barbecued Chicken, Red Peppers, Green Peppers, Tomatoes, Red Onions, Barbecue Sauce",The Barbecue Chicken Pizza
